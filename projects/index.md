@@ -3,10 +3,11 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Projects, software, datasets, and more
+  tooltip: Software, datasets, and more
 ---
 
 # <i class="fas fa-tools"></i>Projects
+
 
 You can learn more about our specific projects below.
 
