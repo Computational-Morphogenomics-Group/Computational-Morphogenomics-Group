@@ -6,7 +6,7 @@ nav:
   tooltip: Projects, software, datasets, and more
 ---
 
-# <i class="fas fa-tools"></i>Tools
+# <i class="fas fa-tools"></i>Projects
 
 You can learn more about our specific projects below.
 
