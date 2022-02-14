@@ -1,10 +1,12 @@
-
 ---
 title: Projects
+description: Ongoing work, software, datasets
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Praise and laurels
 ---
+
+Some text written in Markdown for the Awards page.
 
 # <i class="fas fa-tools"></i>Projects
 
