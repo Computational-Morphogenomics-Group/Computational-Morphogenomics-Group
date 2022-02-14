@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-We work at the intersection of statistics, machine learning and genomics. We are driven by the desire to understant how spatial patterns emerge from local rules in the context of biological dynamical systems, with implications in basic science, ecology and disease. 
+We work at the intersection of statistics, machine learning and genomics. We are driven by the desire to understand and quantify how spatial patterns emerge from local rules in the context of biological dynamical systems, with implications in basic science, ecology and disease. 
 
 {% include section.html %}
 
