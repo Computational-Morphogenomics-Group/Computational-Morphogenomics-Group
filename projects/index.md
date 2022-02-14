@@ -6,7 +6,7 @@ nav:
   tooltip: Praise and laurels
 ---
 
-Some text written in Markdown for the Awards page.
+
 
 # <i class="fas fa-tools"></i>Projects
 
