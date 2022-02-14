@@ -11,7 +11,7 @@ nav:
 # <i class="fas fa-tools"></i>Projects
 
 
-You can learn more about our specific projects below.
+You can learn more about our specific projects below. COMING SOON.
 
 {% include search-info.html %}
 
