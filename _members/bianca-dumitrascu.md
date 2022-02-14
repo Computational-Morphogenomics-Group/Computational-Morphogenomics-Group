@@ -6,7 +6,7 @@ aliases:
   - Bianca Dumitrascu
   - B. M. Dumitrascu
 
-image: images/team/bianca-dumitrascu.jpg
+image: images/team/bianca-dumitrascu.png
 role: pi
 links:
   orcid: 0000-0001-8328-2354
