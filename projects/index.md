@@ -3,7 +3,7 @@ title: Projects
 description: Ongoing work, software, datasets
 nav:
   order: 2
-  tooltip: Praise and laurels
+  tooltip: Ongoing work, software, datasets
 ---
 
 
