@@ -7,7 +7,8 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our group is part of the [Department of Computer Science and Technology](), at [University of Cambridge]().
+Our group is part of the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/), at [University of Cambridge](https://www.cam.ac.uk/).
+
 
 {%
   include link.html
