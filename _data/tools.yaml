@@ -1,47 +1,45 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: scGene-Fit: a framework for gene panel selection
+  subtitle: 
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/scGeneFit-logo.jpg
+  link: https://www.piwheels.org/project/scGeneFit/
+  description: Dimensionality Reduction Algorithms with a focus on explainability for single cell transcriptomics
+  repo: https://www.piwheels.org/project/scGeneFit/
   tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+    - explainability
+    - marker selection
+    - combinatorial optimization
+    - single cell gene expression
     - publication
-
-- title: Cool Web App
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
     - software
 
-- title: Cool Web Server
+
+- title: Image2Tension 
+  subtitle: Tension inference for 2D cellular ensembles 
   group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/tension.jpg
+  description: Python libraries for inferring mechanical properties of images. In Progress.
   tags:
+    - morphology
+    - mechanics
+    - genomics
+    - spatial transcriptomics
     - software
+    
+- title: Multimodal learning for genomic data 
+  subtitle: What can we learn from the joint study of the genome, epigenome and proteome?
+  group: more
+  image: images/multimodal.jpg
+  description: Statistical multimodal tools for. In Progress.
+  tags:
+    - canonical correlation analysis
+   
+
+- title: Inverse Problems in Self-Organizing Systems 
+  subtitle: Physics informed machine learning tools for quantifying pattern formation  
+  group: more
+  image: images/inverse.jpg
+  description: Multi-agent models, Graph Neural Networks and symbolic regression for in silico active matter. In Progress.
+  tags:
+    - graph neural networks
+    - symbolic regression
