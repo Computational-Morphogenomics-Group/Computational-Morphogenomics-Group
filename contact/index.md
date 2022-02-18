@@ -19,7 +19,6 @@ Our group is part of the [Department of Computer Science and Technology](https:/
   link="bmd39@cam.ac.uk"
   style="button"
 %}
-
 {%
   include link.html
   type="address"
