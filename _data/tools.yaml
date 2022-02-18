@@ -1,7 +1,7 @@
 - title: scGene-Fit: a framework for gene panel selection
   subtitle: 
   group: featured
-  image: images/scGeneFit-logo.jpg
+  image: images/photo.jpg
   link: https://www.piwheels.org/project/scGeneFit/
   description: Dimensionality Reduction Algorithms with a focus on explainability for single cell transcriptomics
   repo: https://www.piwheels.org/project/scGeneFit/
@@ -17,7 +17,7 @@
 - title: Image2Tension 
   subtitle: Tension inference for 2D cellular ensembles 
   group: more
-  image: images/tension.jpg
+  image: images/photo.jpg
   description: Python libraries for inferring mechanical properties of images. In Progress.
   tags:
     - morphology
@@ -29,7 +29,7 @@
 - title: Multimodal learning for genomic data 
   subtitle: What can we learn from the joint study of the genome, epigenome and proteome?
   group: more
-  image: images/multimodal.jpg
+  image: images/photo.jpg
   description: Statistical multimodal tools for. In Progress.
   tags:
     - canonical correlation analysis
@@ -38,7 +38,7 @@
 - title: Inverse Problems in Self-Organizing Systems 
   subtitle: Physics informed machine learning tools for quantifying pattern formation  
   group: more
-  image: images/inverse.jpg
+  image: images/photo.jpg
   description: Multi-agent models, Graph Neural Networks and symbolic regression for in silico active matter. In Progress.
   tags:
     - graph neural networks
