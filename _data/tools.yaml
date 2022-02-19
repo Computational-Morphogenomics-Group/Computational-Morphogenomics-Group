@@ -35,7 +35,7 @@
 - title: Inverse Problems in Self-Organizing Systems 
   group: more
   image: images/photo.jpg
-  description: Physics informed machine learning tools for quantifying pattern formation. Multi-agent models, Graph Neural Networks and symbolic regression for in silico active matter. In Progress.
+  description: Physics informed machine learning tools for quantifying pattern formation. Multi-agent models, graph neural networks and symbolic regression for in silico active matter. In Progress.
   tags:
     - graph neural networks
     - symbolic regression
