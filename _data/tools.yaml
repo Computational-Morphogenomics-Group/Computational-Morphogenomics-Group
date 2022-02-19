@@ -19,10 +19,18 @@
 - title: In vitro vs in vivo systems
   group: more
   image: images/photo.jpg
-  link: https://github.com/
   description: Transfer learning and multi-modal learning for organoid to single cell transcriptomics integration and comparison. In Progress.
   tags:
     - transfer learning
     - organoids
+ 
+- title: Mechanics + Transcriptomics 
+  group: more
+  image: images/photo.jpg
+  description: Tension inference for 2D and 3D cellular ensembles. Methods for inferring mechanical properties of images and for multimodal integration of mechanics and transcriptomics. In Progress.
+  tags:
+    - mechanics
+    - spatial transcriptomics   
+    
 
-
+ 
