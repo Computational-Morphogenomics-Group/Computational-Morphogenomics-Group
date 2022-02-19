@@ -1,5 +1,4 @@
 - title: scGene-Fit: a framework for gene panel selection
-  subtitle: 
   group: featured
   image: images/photo.jpg
   link: https://www.piwheels.org/project/scGeneFit/
@@ -15,10 +14,9 @@
 
 
 - title: Image2Tension 
-  subtitle: Tension inference for 2D cellular ensembles 
   group: more
   image: images/photo.jpg
-  description: Python libraries for inferring mechanical properties of images. In Progress.
+  description: Tension inference for 2D cellular ensembles. Python libraries for inferring mechanical properties of images. In Progress.
   tags:
     - morphology
     - mechanics
@@ -27,19 +25,17 @@
     - software
     
 - title: Multimodal learning for genomic data 
-  subtitle: What can we learn from the joint study of the genome, epigenome and proteome?
   group: more
   image: images/photo.jpg
-  description: Statistical multimodal tools for. In Progress.
+  description: What can we learn from the joint study of the genome, epigenome and proteome? In Progress.
   tags:
     - canonical correlation analysis
    
 
 - title: Inverse Problems in Self-Organizing Systems 
-  subtitle: Physics informed machine learning tools for quantifying pattern formation  
   group: more
   image: images/photo.jpg
-  description: Multi-agent models, Graph Neural Networks and symbolic regression for in silico active matter. In Progress.
+  description: Physics informed machine learning tools for quantifying pattern formation. Multi-agent models, Graph Neural Networks and symbolic regression for in silico active matter. In Progress.
   tags:
     - graph neural networks
     - symbolic regression
