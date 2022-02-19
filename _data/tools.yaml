@@ -6,8 +6,6 @@
   tags:
     - resource
     - explainability
-    - marker selection
-    - combinatorial optimization
     - single cell gene expression
 
 - title: Inverse Problems in Self-Organizing Systems
@@ -26,9 +24,7 @@
   link: https://github.com/
   description: Tension inference for 2D cellular ensembles. Python libraries for inferring mechanical properties of images. In Progress.
   tags:
-    - morphology
     - mechanics
-    - genomics
     - spatial transcriptomics
     - software
  
@@ -36,7 +32,7 @@
   group: more
   image: images/photo.jpg
   link: https://github.com/
-  description: Transfer learning and multi-modal learning for organoid to single cell transcriptomics integration and comparison.
+  description: Transfer learning and multi-modal learning for organoid to single cell transcriptomics integration and comparison. In Progress.
   tags:
     - transfer learning
     - organoids    
