@@ -29,11 +29,11 @@
   description: What can we learn from the joint study of the genome, epigenome and proteome? In Progress.
   tags:
     - canonical correlation analysis
-   
+    
 - title: Inverse Problems in Self-Organizing Systems 
   group: more
   image: images/photo.jpg
-  description: Physics informed machine learning tools for quantifying pattern formation. Multi-agent models, graph neural networks and symbolic regression for in silico active matter. In Progress.
+  description: Physics informed machine learning tools for quantifying pattern formation. Multi-agent, graph neural networks and symbolic regression models for in silico active matter. In Progress.
   tags:
     - graph neural networks
     - symbolic regression
