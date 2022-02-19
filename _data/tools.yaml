@@ -1,20 +1,29 @@
-- title: scGene-Fit: a framework for gene panel selection
+- title: scGene-Fit, a framework for gene panel selection
   group: featured
   image: images/photo.jpg
   link: https://www.piwheels.org/project/scGeneFit/
   description: Dimensionality Reduction Algorithms with a focus on explainability for single cell transcriptomics
-  repo: https://www.piwheels.org/project/scGeneFit/
   tags:
+    - resource
     - explainability
     - marker selection
     - combinatorial optimization
     - single cell gene expression
-    - publication
-    - software
+
+- title: Inverse Problems in Self-Organizing Systems
+  group: more
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Physics informed machine learning tools for quantifying pattern formation. Multi-agent, graph neural networks and symbolic regression models for in silico active matter. In Progress.
+  tags:
+    - resource
+    - multi-agent simulations
+    - graph neural networks
     
 - title: Image2Tension 
   group: more
   image: images/photo.jpg
+  link: https://github.com/
   description: Tension inference for 2D cellular ensembles. Python libraries for inferring mechanical properties of images. In Progress.
   tags:
     - morphology
@@ -22,18 +31,12 @@
     - genomics
     - spatial transcriptomics
     - software
-    
-- title: Multimodal learning for genomic data 
+ 
+- title: In vitro to in vivo systems
   group: more
   image: images/photo.jpg
-  description: What can we learn from the joint study of the genome, epigenome and proteome? In Progress.
+  link: https://github.com/
+  description: Transfer learning and multi-modal learning for organoid to single cell transcriptomics integration and comparison.
   tags:
-    - canonical correlation analysis
-    
-- title: Inverse Problems in Self-Organizing Systems 
-  group: more
-  image: images/photo.jpg
-  description: Physics informed machine learning tools for quantifying pattern formation. Multi-agent, graph neural networks and symbolic regression models for in silico active matter. In Progress.
-  tags:
-    - graph neural networks
-    - symbolic regression
+    - transfer learning
+    - organoids    
