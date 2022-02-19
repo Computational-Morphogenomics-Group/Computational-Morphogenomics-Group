@@ -11,8 +11,7 @@
     - single cell gene expression
     - publication
     - software
-
-
+    
 - title: Image2Tension 
   group: more
   image: images/photo.jpg
@@ -31,7 +30,6 @@
   tags:
     - canonical correlation analysis
    
-
 - title: Inverse Problems in Self-Organizing Systems 
   group: more
   image: images/photo.jpg
