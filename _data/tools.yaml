@@ -1,38 +1,38 @@
-- title: scGene-Fit, a framework for gene panel selection
+- title: Explainability + Genomics
   group: featured
   image: images/photo.jpg
   link: https://www.piwheels.org/project/scGeneFit/
-  description: Dimensionality Reduction Algorithms with a focus on explainability for single cell transcriptomics
+  description: Dimensionality Reduction Algorithms with a focus on explainability for single cell transcriptomics experiments.
   tags:
-    - resource
     - explainability
     - single cell gene expression
 
-- title: Inverse Problems in Self-Organizing Systems
+- title: Physics + ML
   group: more
   image: images/photo.jpg
-  link: https://github.com/
-  description: Physics informed machine learning tools for quantifying pattern formation. Multi-agent, graph neural networks and symbolic regression models for in silico active matter. In Progress.
+  description: Physics informed machine learning tools for understanding self-organizing systems. Multi-agent, graph neural networks and symbolic regression models for in silico active matter. In Progress.
   tags:
     - resource
     - multi-agent simulations
     - graph neural networks
     
-- title: Image2Tension 
+- title: Mechanics + Transcriptomics 
   group: more
   image: images/photo.jpg
-  link: https://github.com/
-  description: Tension inference for 2D cellular ensembles. Python libraries for inferring mechanical properties of images. In Progress.
+  description: Tension inference for 2D and 3D cellular ensembles. Methods for inferring mechanical properties of images and for multimodal integration
+  of mechanics and transcriptomics. In Progress.
   tags:
     - mechanics
     - spatial transcriptomics
     - software
  
-- title: In vitro to in vivo systems
+- title: In vitro vs in vivo systems
   group: more
   image: images/photo.jpg
   link: https://github.com/
   description: Transfer learning and multi-modal learning for organoid to single cell transcriptomics integration and comparison. In Progress.
   tags:
     - transfer learning
-    - organoids    
+    - organoids
+
+
