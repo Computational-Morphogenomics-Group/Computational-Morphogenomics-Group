@@ -1,5 +1,23 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.48550/arXiv.2204.00887
+  title: 'Dimensionless machine learning: Imposing exact units equivariance'
+  authors:
+  - Soledad Villar
+  - Weichi Yao
+  - David W. Hogg
+  - Ben Blum-Smith
+  - Bianca Dumitrascu
+  publisher: arXiv
+  date: '2022-04-02'
+  link: https://doi.org/gptvs8
+  extra-links:
+  - type: preprint
+    link: https://doi.org/10.48550/arXiv.2204.00887
+  tags:
+  - data augmentation
+  - invariance
+  - ecology
 - id: doi:10.1101/2022.01.26.477748
   title: Power analysis for spatial omics
   authors:
