@@ -16,3 +16,20 @@
     link: https://doi.org/10.1101/2022.01.26.477748
   tags:
   - spatial transcriptomics
+- id: doi:10.1242/dev.199616
+  title: Deep learning for bioimage analysis in developmental biology
+  authors:
+  - Adrien Hallou
+  - Hannah G. Yevick
+  - Bianca Dumitrascu
+  - Virginie Uhlmann
+  publisher: Development
+  date: '2021-09-07'
+  link: https://doi.org/gptvs7
+  image: https://cob.silverchair-cdn.com/cob/content_public/journal/dev/issue/148/18/40/develop_148_18.coverfig.png?Expires=1652306391&Signature=idi2vB8R6E6LoLiPaUZ5jj9nJwZ4LVHjVbvSzyuYPz~ZshAoJtEbpuoj1XLQNIvm202rWA7hseBc6uXFdHK~FUVddHVmTV963Qcn2LDG~vL-zMTxAN9rrU3o8RKFI21FDEdylc2iy0O37GiPtMnL97Z1T-FXUtT-zPXK7LQ-EaZZyVhD3I6i6sip77AtI9Z25GI~Q-dCCpxjty6xuh~mqEgGPHZ4oTgkEp-nBquGHAQbCQ~2p556lrRZpaQY9GJWeeG-XlLow~XgEaxdsEsq0uysRlooTR-lOtzfZb~QK0fA93258JdQ8zBLB-TEhPOB5akAmHqRErPfxA7TEe4DyA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  extra-links:
+  - link: https://doi.org/10.1242/dev.199616
+  tags:
+  - imaging
+  - developmental biology
+  - deep learning
