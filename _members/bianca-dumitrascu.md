@@ -1,5 +1,6 @@
 ---
 name: Bianca Dumitrascu
+description: Group Leader
 aliases:
   - Bianca M Dumitrascu
   - B.M. Dumitrascu
