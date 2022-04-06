@@ -1,6 +1,6 @@
 - title: Explainability + Genomics
   group: featured
-  image: images/photo.jpg
+  image: images/tools/explainability.png
   link: https://www.piwheels.org/project/scGeneFit/
   description: Dimensionality Reduction Algorithms with a focus on explainability for single cell transcriptomics experiments.
   tags:
@@ -9,7 +9,7 @@
 
 - title: Physics + ML
   group: more
-  image: images/photo.jpg
+  image: images/tools/dimensional_analysis.png
   description: Physics informed machine learning tools for understanding self-organizing systems. Multi-agent, graph neural networks and symbolic regression models for in silico active matter. In Progress.
   tags:
     - resource
@@ -18,7 +18,7 @@
     
 - title: In vitro vs in vivo systems
   group: more
-  image: images/photo.jpg
+  image: images/tools/regions2.png
   description: Transfer learning and multi-modal learning for organoid to single cell transcriptomics integration and comparison. In Progress.
   tags:
     - transfer learning
