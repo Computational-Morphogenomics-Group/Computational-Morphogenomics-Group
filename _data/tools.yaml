@@ -6,15 +6,17 @@
   tags:
     - explainability
     - single cell gene expression
+    - spatial transcriptomics
 
 - title: Physics + ML
   group: more
   image: images/tools/dimensional_analysis.png
   description: Physics informed machine learning tools for understanding self-organizing systems. Multi-agent, graph neural networks and symbolic regression models for in silico active matter. In Progress.
   tags:
-    - resource
     - multi-agent simulations
     - graph neural networks
+    - symbolic regression
+    - dynamical systems
     
 - title: In vitro vs in vivo systems
   group: more
@@ -26,11 +28,11 @@
  
 - title: Mechanics + Transcriptomics 
   group: more
-  image: images/photo.jpg
+  image: images/tools/tension.png
   description: Tension inference for 2D and 3D cellular ensembles. Methods for inferring mechanical properties of images and for multimodal integration of mechanics and transcriptomics. In Progress.
   tags:
     - mechanics
-    - spatial transcriptomics   
+    - spatial transcriptomics
     
 
  
