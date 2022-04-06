@@ -1,6 +1,6 @@
 ---
 name: Louis de Benoist
-image: images/louis_de_benoist.png
+image: images/louis-de-benoist.png
 description: MPhil Student
 role: mphil
 group: alum
