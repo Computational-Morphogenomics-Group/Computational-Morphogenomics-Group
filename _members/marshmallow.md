@@ -1,7 +1,7 @@
 ---
 name: Marshmallow
 image: images/team/marsh.png
-description: Researcher Emeritus
+description: Researcher Emerita
 role: mascot
 
 links:
