@@ -18,6 +18,7 @@
   - data augmentation
   - invariance
   - ecology
+  - symbolic regression
   image: images/tools/dimensional_analysis.png
 - id: doi:10.1101/2022.01.26.477748
   title: Power analysis for spatial omics
@@ -50,5 +51,4 @@
   - link: https://doi.org/10.1242/dev.199616
   tags:
   - imaging
-  - developmental biology
   - deep learning
