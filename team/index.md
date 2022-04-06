@@ -23,7 +23,7 @@ We are an interdisciplinary team of collaborative researchers which includes stu
 
 {% include section.html dark=true %}
 
-We are expanding and always looking for new team members! 
+We are expanding and always looking for new team members! If you are interested in joining us or collaborating please email Bianca!
 
 {%
   include link.html
@@ -49,7 +49,7 @@ We are expanding and always looking for new team members!
 
 ## Funding
 
-Our work is made possible by funding from several organizations.
+Our work is made possible by funding from the Accelerate Programme for Scientific Discovery.
 {:.center}
 
 {%
