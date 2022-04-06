@@ -36,6 +36,7 @@
     link: https://doi.org/10.1101/2022.01.26.477748
   tags:
   - spatial transcriptomics
+  image: images/tools/regions.png
 - id: doi:10.1242/dev.199616
   title: Deep learning for bioimage analysis in developmental biology
   authors:
