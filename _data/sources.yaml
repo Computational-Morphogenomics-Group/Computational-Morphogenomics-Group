@@ -1,4 +1,5 @@
 - id: doi:10.48550/arXiv.2204.00887
+  image: images/tools/dimensional_analysis.png
   date: 2022-4-2
   extra-links:
     - type: preprint
