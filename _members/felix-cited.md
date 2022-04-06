@@ -1,5 +1,5 @@
 ---
-name: Felix Cited
+name: Felix Cited a lot
 image: images/member.jpg
 description: Treat Researcher
 role: phd
