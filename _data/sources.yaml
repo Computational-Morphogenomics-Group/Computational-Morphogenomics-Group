@@ -9,7 +9,7 @@
 - id: doi.org/10.1242/dev.199616
   date: 2021-9-07
   extra-links:
-    - type: in press
+    - type: manubot
       link: https://doi.org/10.1242/dev.199616
   tags:
     - imaging, developmental biology, deep learning
