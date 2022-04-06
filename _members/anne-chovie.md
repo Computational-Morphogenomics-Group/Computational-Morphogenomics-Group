@@ -1,17 +1,9 @@
 ---
-name: Anne Chovie
-image: images/member.jpg
-description: Bark Ops Engineer
-role: programmer
+name: Louis de Benoist
+image: images/louis_de_benoist.jpg
+description: MPhil Student
+group: alum
 aliases:
-  - A. Chovie
-  - A Chovie
-links:
-  home-page: annechovie.com
-  email: anne@chovie.com
-  github: anne-chovie
----
+  - L. de Benoist
 
-Anne is a good dog.
-She studied at the University of Good Dogs.
-She likes pets, walkies, and treats.
+I used to work with Bianca on incorporating prior source knowledge in deep generative models for multimodal data. In particular, we also looked at ways of applying such models in biophysical contexts, such as tension inference in epithelial cells. Post-Cambridge, I am attending business school at HEC, in hope of eventually working in (or creating) a tech startup.”
