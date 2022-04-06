@@ -25,14 +25,7 @@ We are an interdisciplinary team of collaborative researchers which includes stu
 
 We are expanding and always looking for new team members! If you are interested in joining us or collaborating please email Bianca!
 
-{%
-  include link.html
-  icon="fas fa-hands-helping"
-  text="Join the Team"
-  link="join"
-  style="button"
-%}
-{:.center}
+
 
 {% include section.html %}
 
