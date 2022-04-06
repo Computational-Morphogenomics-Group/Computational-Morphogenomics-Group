@@ -1,6 +1,6 @@
 ---
 name: Louis de Benoist
-image: images/louis_de_benoist.jpg
+image: images/louis_de_benoist.png
 description: MPhil Student
 group: alum
 aliases:
