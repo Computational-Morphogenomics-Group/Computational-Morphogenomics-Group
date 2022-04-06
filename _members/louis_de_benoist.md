@@ -1,8 +1,8 @@
 ---
 name: Louis de Benoist
 image: images/louis_de_benoist.png
-role: phd
 description: MPhil Student
+role: mphil
 group: alum
 aliases:
   - L. de Benoist
