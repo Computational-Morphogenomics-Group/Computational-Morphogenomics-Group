@@ -7,7 +7,7 @@ aliases:
   - L. Rudolf L.
 
 image: images/team/rudolf-profile.png
-role: Undergraduate Researcher
+role: undergrad
 links:
   home-page: https://www.strataoftheworld.com/
   email: lrl34@cam.ac.uk
