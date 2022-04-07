@@ -9,6 +9,7 @@ image: images/team/katie-green.png
 role: phd
 links:
   email: kmmg2@cam.ac.uk
+  twitter: @k_macfgreen
 ---
 
 
