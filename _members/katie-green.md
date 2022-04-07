@@ -1,11 +1,9 @@
 ---
 name: Katie Green
-description: Graduate Student
-aliases:
-  - Katie
-  - K. Green
 image: images/team/katie-green.png
+description: Graduate Student
 role: phd
+
 links:
   email: kmmg2@cam.ac.uk
   twitter: @k_macfgreen
