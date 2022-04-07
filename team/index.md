@@ -41,6 +41,10 @@ We are expanding and always looking for new team members! If you are interested 
 
 {% include section.html %}
 
+Other alumni:
+
+Ruben Weitzman (MPhil student, now a [Graduate Student](https://www.bdi.ox.ac.uk/Team/ruben-weitzman) at Oxford University.
+
 ## Funding
 
 Our work is made possible by funding from the Accelerate Programme for Scientific Discovery.
