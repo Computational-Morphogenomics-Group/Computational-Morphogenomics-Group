@@ -43,7 +43,7 @@ We are expanding and always looking for new team members! If you are interested 
 
 Other alumni:
 
-Ruben Weitzman (MPhil student, now a [Graduate Student](https://www.bdi.ox.ac.uk/Team/ruben-weitzman) at Oxford University.
+Ruben Weitzman (MPhil student 2021), now a [Graduate Student](https://www.bdi.ox.ac.uk/Team/ruben-weitzman) at Oxford University.
 
 ## Funding
 
