@@ -1,6 +1,6 @@
 - title: Explainability + Genomics
   group: featured
-  image: images/tools/explainability.png
+  image: images/tools/regions2.png
   link: https://www.piwheels.org/project/scGeneFit/
   description: Dimensionality Reduction Algorithms with a focus on explainability for single cell transcriptomics experiments.
   tags:
