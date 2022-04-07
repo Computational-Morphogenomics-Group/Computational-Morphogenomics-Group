@@ -1,3 +1,17 @@
+---
+name: Katie Green
+description: Graduate Student
+aliases:
+  - Katie
+  - K. Green
+
+image: images/team/katie-green.png
+role: phd
+links:
+  email: kmmg2@cam.ac.uk
+---
+
+
 I am a first year PhD student working on improving understanding of marine ecosystem dynamics. 
 I am interested in the application of statistical machine learning techniques to this problem and how 
 these can be optimally leveraged to uncover information about interactions between species. 
