@@ -53,3 +53,38 @@
   tags:
   - imaging
   - deep learning
+- id: doi:10.48550/arXiv.2109.11851
+  title: Approximate Latent Force Model Inference
+  authors:
+  - Jacob D. Moss
+  - Felix L. Opolka
+  - Bianca Dumitrascu
+  - "Pietro Li\xF3"
+  publisher: arXiv
+  date: '2021-01-01'
+  link: https://doi.org/gp3mx5
+  image: images/tools/lfm.png
+  extra-links:
+  - type: preprint
+  - link: https://doi.org/10.48550/arXiv.2109.11851
+  tags:
+  - latent force models
+  - gene regulatory networks
+  - dynamical systems
+- id: doi:10.1038/s41467-021-21453-4
+  title: Optimal marker gene selection for cell type discrimination in single cell
+    analyses
+  authors:
+  - Bianca Dumitrascu
+  - Soledad Villar
+  - Dustin G. Mixon
+  - Barbara E. Engelhardt
+  publisher: Nature Communications
+  date: '2021-02-19'
+  link: https://doi.org/gjzs9r
+  image: images/tools/scgenefit.png
+  extra-links:
+  - link: https://www.nature.com/articles/s41467-021-21453-4
+  tags:
+  - interpretability
+  - scRNA-seq
