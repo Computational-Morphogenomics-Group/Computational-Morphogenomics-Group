@@ -8,7 +8,7 @@
   group: more
   image: images/tools/dimensional_analysis.png
   description: Physics informed machine learning tools for understanding self-organizing systems. Multi-agent simulations, graph neural networks and symbolic regression models for in silico active matter, developmental patterns and ecology. 
-    
+  
 - title: In vitro vs in vivo systems
   group: more
   image: images/tools/regions2.png
