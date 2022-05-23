@@ -12,7 +12,7 @@
 - title: In vitro vs in vivo systems
   group: more
   image: images/tools/regions2.png
-  description: Transfer learning and multi-modal learning for organoid to single cell transcriptomics integration and comparison. What gene regulatory signatures encountered in vivo are recapitulated in organoid cultures? 
+  description: Transfer learning and multi-modal learning for organoid to scRNA-seq integration and comparison. What gene regulatory signatures encountered in vivo are recapitulated in organoid cultures? 
  
 - title: Mechanics + Transcriptomics 
   group: more
