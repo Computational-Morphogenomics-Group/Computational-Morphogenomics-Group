@@ -3,36 +3,31 @@
   image: images/tools/regions2.png
   link: https://www.piwheels.org/project/scGeneFit/
   description: Dimensionality Reduction Algorithms with a focus on explainability for single cell transcriptomics experiments.
-  tags:
-    - explainability
-    - single cell gene expression
-    - spatial transcriptomics
-
+  
 - title: Physics + ML
   group: more
   image: images/tools/dimensional_analysis.png
-  description: Physics informed machine learning tools for understanding self-organizing systems. Multi-agent, graph neural networks and symbolic regression models for in silico active matter. In Progress.
-  tags:
-    - multi-agent simulations
-    - graph neural networks
-    - symbolic regression
-    - dynamical systems
+  description: Physics informed machine learning tools for understanding self-organizing systems. 
+  Multi-agent simulations, graph neural networks and symbolic regression models for in silico active matter, developmental patterns and ecology. 
     
 - title: In vitro vs in vivo systems
   group: more
   image: images/tools/regions2.png
-  description: Transfer learning and multi-modal learning for organoid to single cell transcriptomics integration and comparison. In Progress.
-  tags:
-    - transfer learning
-    - organoids
+  description: Transfer learning and multi-modal learning for organoid to single cell transcriptomics integration and comparison. 
+  What gene regulatory signatures encountered in vivo are recapitulated in organoid cultures? 
  
 - title: Mechanics + Transcriptomics 
   group: more
   image: images/tools/tension.png
-  description: Tension inference for 2D and 3D cellular ensembles. Methods for inferring mechanical properties of images and for multimodal integration of mechanics and transcriptomics. In Progress.
-  tags:
-    - mechanics
-    - spatial transcriptomics
+  description: Bayesian machine learning methods for inferring mechanical properties and 
+  morphological features of cellular aggregates with the goal of quantifying their interaction with transcriptomics.
+  
+- title: Infer + Perturb
+  group: more
+  image: images/tools/regions2.png
+  description: Experimental design and multi arm bandits for optimal perturbations in transcriptomic studies.
+  
+
     
 
  
