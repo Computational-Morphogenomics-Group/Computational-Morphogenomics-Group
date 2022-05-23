@@ -23,7 +23,8 @@ We are an interdisciplinary team of collaborative researchers which includes stu
 
 {% include section.html dark=true %}
 
-We are expanding and always looking for new team members! If you are interested in joining us or collaborating please email Bianca!
+We are expanding and looking for new team members! If you are interested in joining us or collaborating please email Bianca!
+Come January 2023, our group will be moving to Columbia University in NYC where we will be part of the [Statistics Department]{https://stat.columbia.edu/} and the [Herbert and Florence Irving Institute for Cancer Dynamics]{https://cancerdynamics.columbia.edu/}. Please inquire about available PhD and Postdoc opportunities! 
 
 
 
