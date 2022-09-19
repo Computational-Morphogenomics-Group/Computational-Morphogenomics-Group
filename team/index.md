@@ -44,7 +44,8 @@ Come January 2023, our group will be moving to Columbia University in NYC where 
 {% include section.html %}
 
 Other alumni:
-Sam Beer (Part 2 student, 2021-2022).
+Sam Beer (Computer Science, Part 2 student, 2021-2022).
+
 Ruben Weitzman (MPhil student 2021), now a [Graduate Student](https://www.bdi.ox.ac.uk/Team/ruben-weitzman) at Oxford University.
 
 ## Funding
