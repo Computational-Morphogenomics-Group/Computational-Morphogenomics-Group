@@ -11,6 +11,7 @@ role: undergrad
 links:
   home-page: https://www.strataoftheworld.com/
   email: lrl34@cam.ac.uk
+group: alum
 ---
 
 I am a 3rd year Computer Science student with a keen interest in machine learning, AI alignment, and functional programming.
