@@ -17,6 +17,7 @@ We are an interdisciplinary team of collaborative researchers which includes stu
 
 {% include list.html data="members" component="portrait" filters="role: pi, group: " %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
 {% include list.html data="members" component="portrait" filters="role: mphil, group: " %}
 {% include list.html data="members" component="portrait" filters="role: mascot, group: " %}
@@ -43,7 +44,7 @@ Come January 2023, our group will be moving to Columbia University in NYC where 
 {% include section.html %}
 
 Other alumni:
-
+Sam Beer (Part 2 student, 2021-2022).
 Ruben Weitzman (MPhil student 2021), now a [Graduate Student](https://www.bdi.ox.ac.uk/Team/ruben-weitzman) at Oxford University.
 
 ## Funding
