@@ -2,7 +2,7 @@
 name: Craig Fouts
 description: Graduate Student
 image: images/team/craig-fouts.png
-role: MS
+role: mphil
 links:
   orcid: 0000-0002-6669-3677
   email: cwf2117@columbia.edu
