@@ -1,4 +1,4 @@
-- id: doi: https://doi.org/10.1101/2022.07.31.502211
+- id: doi:10.1101/2022.07.31.502211
   date: 2022-8-8
   extra-links:
     -type: preprint
@@ -6,6 +6,7 @@
   tags:
     - multi-tissue imputation
     - deep learning
+
 
 - id: doi:10.48550/arXiv.2204.00887
   image: images/tools/dimensional_analysis.png
