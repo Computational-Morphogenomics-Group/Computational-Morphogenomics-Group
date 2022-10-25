@@ -106,3 +106,20 @@
   tags:
   - multi-tissue imputation
   - deep learning
+- id: https://arxiv.org/abs/2207.14106
+  title: 'MarkerMap: nonlinear marker selection for single-cell studies'
+  authors:
+  - Nabeel Sarwar
+  - Wilson Gregory
+  - George A. Kevrekidis
+  - Soledad Villar
+  - Bianca Dumitrascu
+  publisher: arXiv:2207.14106 [cs, q-bio, stat]
+  date: '2022-07-28'
+  link: http://arxiv.org/abs/2207.14106
+  extra-links:
+  - type: preprint
+  tags:
+  - interpretability
+  - deep learning
+  - scRNA-seq
