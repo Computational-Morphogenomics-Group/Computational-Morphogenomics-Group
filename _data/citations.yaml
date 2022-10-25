@@ -88,3 +88,21 @@
   tags:
   - interpretability
   - scRNA-seq
+- id: doi:10.1101/2022.07.31.502211
+  title: Hypergraph factorisation for multi-tissue gene expression imputation
+  authors:
+  - "Ramon Vi\xF1as"
+  - Chaitanya K. Joshi
+  - Dobrik Georgiev
+  - Bianca Dumitrascu
+  - Eric R. Gamazon
+  - "Pietro Li\xF2"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-08-08'
+  link: https://doi.org/gq4m9w
+  extra-links:
+  - type: preprint
+  - link: https://doi.org/10.1101/2022.07.31.502211
+  tags:
+  - multi-tissue imputation
+  - deep learning
