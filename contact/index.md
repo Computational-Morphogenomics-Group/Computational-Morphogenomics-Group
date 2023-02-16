@@ -14,9 +14,9 @@ Our group is part of the [Department of Statistics]([https://www.cst.cam.ac.uk/]
   include link.html
   type="email"
   icon=""
-  text="bmd39@cam.ac.uk"
+  text="bianca.dumitrascu@columbia.edu"
   tooltip=""
-  link="bmd39@cam.ac.uk"
+  link="bianca.dumitrascu@columbia.edu"
   style="button"
 %}
 {%
@@ -25,7 +25,7 @@ Our group is part of the [Department of Statistics]([https://www.cst.cam.ac.uk/]
   icon=""
   text="Departmental Address"
   tooltip="Our location for easy navigation"
-  link="https://www.cst.cam.ac.uk/directions"
+  link="https://www.google.com/maps?rlz=1C5CHFA_enGB980GB980&output=search&q=DEPARTMENT+OF+STATISTICS+Columbia+University+Room+1005+SSW,+MC+4690+1255+Amsterdam+Avenue+New+York,+NY+10027&sa=X&ved=2ahUKEwiQtKuPnJn9AhVMEFkFHa30AcEQ0pQJegQIEBAB"
   style="button"
 %}
 {:.center}
@@ -44,14 +44,14 @@ UK
 {%
   include figure.html
   image="images/photo_department.jpg"
-  caption="Department of Computer Science and Technology"
+  caption="Columbia Campus"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
   image="images/photo_cambriddge.jpg"
-  caption="Around Cambridge"
+  caption="Around NYC"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
