@@ -36,11 +36,10 @@ Our group is part of the [Department of Statistics]([https://www.cst.cam.ac.uk/]
 
 DEPARTMENT OF STATISTICS <br>
 Columbia University<br>
-Room 1005 SSW, MC 4690<br>
 1255 Amsterdam Avenue<br>
-New York, NY 10027<br>
-Phone: 212.851.2132<br>
-Fax: 212.851.2164<br>
+Room 1005 SSW, MC 4690<br>
+New York, NY 10027
+
 
 {:.center}
 
