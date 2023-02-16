@@ -34,10 +34,14 @@ Our group is part of the [Department of Statistics]([https://www.cst.cam.ac.uk/]
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-William Gates Building
-JJ Thomson Avenue
-Cambridge. CB3 0FD
-UK
+DEPARTMENT OF STATISTICS
+Columbia University
+Room 1005 SSW, MC 4690
+1255 Amsterdam Avenue
+New York, NY 10027
+
+Phone: 212.851.2132
+Fax: 212.851.2164
 {:.center}
 
 {% capture col1 %}
@@ -50,7 +54,7 @@ UK
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo_cambriddge.jpg"
+  image="images/photo_NYC.jpg"
   caption="Around NYC"
 %}
 {% endcapture %}
