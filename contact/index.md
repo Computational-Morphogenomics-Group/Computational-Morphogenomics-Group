@@ -53,7 +53,7 @@ New York, NY 10027
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo_NYC.jpg"
+  image="images/photo-NYC.jpg"
   caption="Around NYC"
 %}
 {% endcapture %}
