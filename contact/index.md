@@ -34,19 +34,13 @@ Our group is part of the [Department of Statistics]([https://www.cst.cam.ac.uk/]
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-DEPARTMENT OF STATISTICS
-
-Columbia University
-
-Room 1005 SSW, MC 4690
-
-1255 Amsterdam Avenue
-
-New York, NY 10027
-
-Phone: 212.851.2132
-
-Fax: 212.851.2164
+DEPARTMENT OF STATISTICS <br>
+Columbia University<br>
+Room 1005 SSW, MC 4690<br>
+1255 Amsterdam Avenue<br>
+New York, NY 10027<br>
+Phone: 212.851.2132<br>
+Fax: 212.851.2164<br>
 
 {:.center}
 
