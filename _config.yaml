@@ -2,7 +2,7 @@
 
 # site properties and page defaults
 title: Computational Morphogenomics Group
-subtitle: Dumitrascu Lab @CL, University of Cambridge
+subtitle: Dumitrascu Lab @ Columbia University
 description: 
 logo: images/logo.svg
 header: images/background.jpg
@@ -11,7 +11,7 @@ baseurl: ""
 
 # site social media and other links
 links:
-  email: bmd39@cam.ac.uk
+  email: bianca.dumitrascu@columbia.edu
   google-scholar: Bianca Dumitrascu
   github: Computational-Morphogenomics-Group
   #twitter: YourLabHandle
