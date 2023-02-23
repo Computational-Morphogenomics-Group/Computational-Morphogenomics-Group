@@ -25,7 +25,7 @@ We are an interdisciplinary team of collaborative researchers which includes stu
 {% include section.html dark=true %}
 
 We are expanding and looking for new team members! If you are interested in joining us or collaborating please email Bianca!
-We are part of the [Statistics Department](https://stat.columbia.edu/) and the [Herbert and Florence Irving Institute for Cancer Dynamics](https://cancerdynamics.columbia.edu/) at Colymbia University. Please inquire about available PhD and Postdoc opportunities! 
+We are part of the [Statistics Department](https://stat.columbia.edu/) and the [Herbert and Florence Irving Institute for Cancer Dynamics](https://cancerdynamics.columbia.edu/) at Columbia University. Please inquire about available PhD and Postdoc opportunities! 
 
 
 
@@ -49,9 +49,6 @@ Sam Beer (Computer Science, Part 2 student, 2021-2022).
 
 Ruben Weitzman (MPhil student 2021), now a [Graduate Student](https://www.bdi.ox.ac.uk/Team/ruben-weitzman) at Oxford University.
 
-## Funding
-
-Our work is made possible by funding from the Accelerate Programme for Scientific Discovery.
 {:.center}
 
 {%
