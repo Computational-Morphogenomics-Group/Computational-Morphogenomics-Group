@@ -25,3 +25,8 @@ programmer:
 mascot:
   icon: fas fa-dog
   text: Mascot
+
+visitor:
+  icon: fas fa-code
+  text: Visitor
+
