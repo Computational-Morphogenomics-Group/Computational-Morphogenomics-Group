@@ -45,6 +45,13 @@ We are part of the [Statistics Department](https://stat.columbia.edu/) and the [
 
 Other alumni:
 
+Mari Tolonen (Visiting Phd Student, University of Copenhagen, Sedzinski Lab, Summer 2023).
+
+Hannah Boen (Summer Intern, Harvard University, Summer 2023).
+
+Gabriel Rios (Summer Intern, Columbia University, Summer 2023).
+
+
 Sam Beer (Computer Science, Part 2 student, 2021-2022).
 
 Ruben Weitzman (MPhil student 2021), now a [Graduate Student](https://www.bdi.ox.ac.uk/Team/ruben-weitzman) at Oxford University.
