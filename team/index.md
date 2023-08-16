@@ -21,6 +21,8 @@ We are an interdisciplinary team of collaborative researchers which includes stu
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
 {% include list.html data="members" component="portrait" filters="role: mphil, group: " %}
 {% include list.html data="members" component="portrait" filters="role: mascot, group: " %}
+{% include list.html data="members" component="portrait" filters="role: visitor, group: " %}
+
 
 {% include section.html dark=true %}
 
