@@ -1,10 +1,10 @@
 ---
 name: Ruiyang He
-image: images/team/ruiyang-he.jpg
+image: images/team/ruiyang-he.png
 description: Graduate Student
 role: phd
 links:
-  linkedin: ruiyang-he-62765b141
+  linkedin: ruiyang-he-62765b141e
   email: rh3194@columbia.edu
 ---
  
