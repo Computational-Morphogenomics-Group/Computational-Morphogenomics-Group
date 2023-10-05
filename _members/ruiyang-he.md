@@ -4,7 +4,7 @@ image: images/team/ruiyang-he.jpg
 description: Graduate Student
 role: phd
 links:
-  linkedin: https://www.linkedin.com/in/ruiyang-he-62765b141/
+  linkedin: ruiyang-he-62765b141
   email: rh3194@columbia.edu
 ---
  
